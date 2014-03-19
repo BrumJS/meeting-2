@@ -7,3 +7,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 
 - Jack Wearden ([@jackweirdy](https://twitter.com/JackWeirdy))
 - Daniel Hollands ([@LimeBlast](https://twitter.com/LimeBlast))
+- Ben Paddock ([@pads](https://twitter.com/_pads))
