@@ -9,3 +9,5 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Daniel Hollands ([@LimeBlast](https://twitter.com/LimeBlast))
 - Ben Paddock ([@pads](https://twitter.com/_pads))
 - Christopher Rolfe ([ThatChrisR](https://twitter.com/ThatChrisR))
+- Stuart Langridge ([@sil](http://twitter.com/sil)) (hopefully)
+- 
