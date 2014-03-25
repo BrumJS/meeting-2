@@ -11,3 +11,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Christopher Rolfe ([ThatChrisR](https://twitter.com/ThatChrisR))
 - Stuart Langridge ([@sil](http://twitter.com/sil)) (hopefully)
 - Bertie Wheen ([@bertiewheen](https://twitter.com/bertiewheen))
+- Nadeem Shabir ([@kiyanwang](https://twitter.com/kiyanwang))
