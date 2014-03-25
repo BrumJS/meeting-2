@@ -13,3 +13,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Bertie Wheen ([@bertiewheen](https://twitter.com/bertiewheen))
 - Nadeem Shabir ([@kiyanwang](https://twitter.com/kiyanwang))
 - Matt Ellis ([@citizenmatt](https://twitter.com/citizenmatt))
+- Chris Clarke ([@robotrobot](https://twitter.com/robotrobot))
