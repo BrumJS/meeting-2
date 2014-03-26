@@ -14,3 +14,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Nadeem Shabir ([@kiyanwang](https://twitter.com/kiyanwang))
 - Matt Ellis ([@citizenmatt](https://twitter.com/citizenmatt))
 - Chris Clarke ([@robotrobot](https://twitter.com/robotrobot))
+- Luke Armstrong ([@6c61](https://twitter.com/6c61))
