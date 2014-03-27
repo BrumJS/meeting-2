@@ -16,3 +16,4 @@ To attend, file a pull request adding your name & any relevant info to the atten
 - Chris Clarke ([@robotrobot](https://twitter.com/robotrobot))
 - Luke Armstrong ([@6c61](https://twitter.com/6c61))
 - David Brooks ([@junglebarry](https://twitter.com/junglebarry))
+- Richard Cunningham ([@rythie](https://twitter.com/rythie))
